@@ -254,7 +254,7 @@ See [SQL Skills Showcase](sql/SQL_SKILLS_SHOWCASE.md) for detailed examples and 
 
 ## 🔗 Connect
 
-- **GitHub**: [github.com/YOUR_USERNAME/layoffs-analysis](https://github.com/YOUR_USERNAME)
+- **GitHub**: https://github.com/Mallika-434/layoffs-analysis
 - **LinkedIn**: [Share your analysis](https://linkedin.com)
 - **Portfolio**: [Your website](https://yourportfolio.com)
 
