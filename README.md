@@ -285,13 +285,13 @@ See [SQL Skills Showcase](sql/SQL_SKILLS_SHOWCASE.md) for detailed examples and 
 
 ## 🎯 Future Enhancements
 
-- [ ] Add Power BI dashboard with interactive visualizations
-- [ ] Incorporate stock price data for correlation analysis
-- [ ] Predictive model for 2025 layoff forecasting
-- [ ] Sentiment analysis of layoff announcements
-- [ ] Geographic visualization with mapping
-- [ ] Industry-specific trend analysis
-- [ ] Quarterly earnings correlation
+- [ ] Add Power BI dashboard
+- [ ] Add stock price data correlation
+- [ ] Predictive model for future layoffs
+- [ ] Sentiment analysis of announcements
+- [ ] Geographic heat maps
+- [ ] Industry trend analysis
+- [ ] Earnings correlation analysis
 
 ---
 
